@@ -2,6 +2,9 @@
 pyrogram
 TgCrypto
 python-dotenv
+aiohttp
+Flask
+gunicorn
 hachoir
 ffmpeg-python
 beautifulsoup4==4.9.1
